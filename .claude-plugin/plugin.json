@@ -1,0 +1,10 @@
+{
+  "name": "magic-relay",
+  "displayName": "Magic Relay",
+  "version": "1.0.0",
+  "description": "Run your social accounts from Claude: draft in your voice, publish and schedule, answer comments, mentions and direct messages, and see how your posts did across X, LinkedIn, Instagram, Facebook and Threads.",
+  "author": { "name": "Magic Relay", "url": "https://magicrelay.com" },
+  "homepage": "https://magicrelay.com/docs/claude",
+  "license": "MIT",
+  "keywords": ["social media", "scheduling", "analytics", "mcp"]
+}
