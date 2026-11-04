@@ -6,5 +6,7 @@
   "author": { "name": "Magic Relay", "url": "https://magicrelay.com" },
   "homepage": "https://magicrelay.com/docs/claude",
   "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://magicrelay.com/privacy",
   "keywords": ["social media", "scheduling", "analytics", "mcp"]
 }
